@@ -1,0 +1,11 @@
+.input {
+  background: transparent;
+  outline: none;
+  padding: 0.5em 1em;
+  border: 2px solid #BB65FF;
+  border-radius: 2rem;
+
+  &__text {
+    font-size: 1.5em;
+  }
+}
