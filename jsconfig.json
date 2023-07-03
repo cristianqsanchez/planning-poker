@@ -1,7 +1,13 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@/components/*": ["./src/app/components/*"],
+      "@/hooks/*": ["./src/app/hooks/*"],
+      "@/services/*": ["./src/app/services/*"],
+      "@/context/*": ["./src/app/context/*"],
+      "@/assets/*": ["./src/app/assets/*"],
+      "@/api/*": ["./src/app/api/*"]
     }
   }
 }
